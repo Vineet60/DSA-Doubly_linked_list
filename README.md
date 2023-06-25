@@ -1,1 +1,1 @@
-# DSA-Doubly_linked_list
+Student Record Management using doubly lisked lists
